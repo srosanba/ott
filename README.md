@@ -2,10 +2,10 @@
 
 3 Things
 
-1. a
-1. b
-1. c
+1. GMI SS for survival rate at 12 months (9am)
+1. EF_TBN troubleshooting (4pm)
+1. n(%) macro
 
 1 Thing
 
-d
+GMI SS
