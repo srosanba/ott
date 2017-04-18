@@ -1,11 +1,12 @@
-2017-04-18
+2017-04-19
 
 3 Things
 
-1. GMI SS for survival rate at 12 months (9am)
-1. EF_TBN troubleshooting (4pm)
-1. n(%) macro
+1. DX TL rerun, QC
+1. literate programming
+1. Berinato
 
 1 Thing
 
-GMI SS
+DX TL rerun, QC
+
