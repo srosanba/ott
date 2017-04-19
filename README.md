@@ -2,7 +2,7 @@
 
 3 Things
 
-1. __DX TL rerun, QC__
+1. ~~DX TL rerun, QC~~
 1. literate programming
 1. Berinato
 
