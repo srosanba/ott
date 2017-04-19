@@ -1,12 +1,12 @@
-2017-04-19
+2017-04-20
 
 3 Things
 
-1. ~~DX TL rerun, QC~~
-1. ~~literate programming~~
-1. Berinato
+1. DX data quirks
+1. 
+1. 
 
 1 Thing
 
-DX TL rerun, QC
+DX data quirks
 
