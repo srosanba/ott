@@ -1,12 +1,12 @@
-2017-04-21
+2017-04-24
 
 3 Things
 
-1. DX data quirks
-1. ~~OPKO materials~~
-1. ~~SAS in Atom~~
+1. GRCS simulations
+1. possible 230 files to review
+1. 
 
 1 Thing
 
-DX data quirks
+GRCS simulations
 
