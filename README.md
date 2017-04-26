@@ -1,10 +1,10 @@
-2017-04-25
+2017-04-27
 
 3 Things
 
 1. GRCS simulations
-1. 230 SDTM review
-1. DX03 topline follow-up
+1. 230 ADSL
+1. 230 ADAE
 
 1 Thing
 
