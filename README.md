@@ -1,11 +1,11 @@
-2017-05-01
+2017-05-23
 
 3 Things
 
-1. 230 ADLB
-1. SVN
-1. GRCS follow-up
+1. dx03 qc x14
+1. ae val
+1. charsort reimagined
 
 1 Thing
 
-GRCS follow-up
+dx03 qc x14
