@@ -2,10 +2,10 @@
 
 3 Things
 
-1. dx03 qc x14
+1. 230 annos
 1. ae val
 1. charsort reimagined
 
 1 Thing
 
-dx03 qc x14
+230 annos
